@@ -1,2 +1,2 @@
 # Java_Completo
-Repositório de minha produções Java de estudo
+Repositório de minhas produções Java para estudos
