@@ -1,0 +1,8 @@
+package classe;
+
+public class ProdutoTeste2 {
+	public static void main(String[] args) {
+		Produto p1 = new Produto();
+		System.out.println(p1.precoComDesconto(500 , 10));
+	}
+}

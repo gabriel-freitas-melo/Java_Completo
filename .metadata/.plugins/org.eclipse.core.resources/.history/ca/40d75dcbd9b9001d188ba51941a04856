@@ -1,0 +1,16 @@
+package classe;
+
+public class Produto {
+	//Variáveis
+	String nome;
+	String marca;
+	double preco;
+	double desconto;
+	//Métodos
+	double precoComDesconto(double preco , double desconto) {
+		double resultado = preco - (preco * (desconto/100));
+		System.out.println("O resltado é:");
+		return resultado;
+	}
+	
+}
